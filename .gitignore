@@ -1,0 +1,6 @@
+*.ignore
+*.pyc
+local/
+lib/
+include/
+bin/
